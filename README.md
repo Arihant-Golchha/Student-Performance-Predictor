@@ -121,7 +121,7 @@ git clone https://github.com/Arihant-Golchha/Student-Performance-Predictor.git
 cd Student-Performance-Predictor
 
 # Install dependencies
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost shap jupyter
+pip install -r requirements.txt
 
 # Launch notebook
 jupyter notebook notebook.ipynb
