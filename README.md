@@ -43,21 +43,19 @@ Both correlation analysis and SHAP explainability independently identified **Abs
 ---
 
 ## Project Structure
-
-```
 student-performance-predictor/
 │
-├── notebook.ipynb          # Main notebook — EDA, modelling, SHAP
-├── dataset/
-│   └── student_performance.csv
-├── plots/
-│   ├── correlation_heatmap.png
-│   ├── confusion_matrices.png
-│   ├── roc_curves.png
-│   ├── shap_summary.png
-│   └── shap_feature_importance.png
+├── Student_prediction_model.ipynb   # Main notebook — EDA, modelling, SHAP
+├── Student_performance_data_.csv    # Dataset
+├── correlation_heatmap.png
+├── confusion_matrices.png
+├── roc_curves.png
+├── summary_plot.png
+├── shap_feature_importance.png
+├── Global_summary.png
+├── XGBoost_feature_importance.csv
+├── requirements.txt
 └── README.md
-```
 
 ---
 
