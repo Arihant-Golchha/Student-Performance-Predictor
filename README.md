@@ -139,4 +139,4 @@ This pipeline demonstrates that student academic performance can be predicted wi
 
 **Arihant Golchha**  
 B.E. Artificial Intelligence & Data Science — MBM University, Jodhpur  
-[GitHub](https://github.com/Arihant-Golchha) | [LinkedIn](#) | [LeetCode](#)
+[GitHub](https://github.com/Arihant-Golchha) | [LinkedIn](https://www.linkedin.com/in/arihant-golchha-jain) | [LeetCode](https://leetcode.com/u/Arihant0306/)
